@@ -53,7 +53,7 @@ const workerConfig = {
       // `method` should be a valid HTTP Method
       method: 'GET',
       // `target` is a valid URL
-      target: 'https://test0500.ankit-1cc.workers.dev/',
+      target: 'https://www.ankitdalal.com/',
       // [OPTIONAL] `tooltip` is ONLY used at status page to show a tooltip
       tooltip: 'This is Pocketful Website Home Page',
       // [OPTIONAL] `statusPageLink` is ONLY used for clickable link at status page
