@@ -82,7 +82,7 @@ const workerConfig = {
     appriseApiServer: "https://vercel-apprise01.vercel.app/notify",
     // [Optional] recipient URL for apprise, refer to https://github.com/caronc/apprise
     // if not specified, no notification will be sent
-    recipientUrl: "https://discord.com/api/webhooks/1261357672062652528/c28tv84_aSO3mK6q0KoGmWyXiF6O5vjewwDoTaLfOgCPOANg5-QCIChXIYlFx_dvszsu",
+    recipientUrl: "discord://1261357672062652528/c28tv84_aSO3mK6q0KoGmWyXiF6O5vjewwDoTaLfOgCPOANg5-QCIChXIYlFx_dvszsu/?botname=SEO_Team_Bot&avatar_url=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS60dqTjnTgfJok-_HkKzDgH52YkRyF61yr1g&s",
     // [Optional] timezone used in notification messages, default to "Etc/GMT"
     timeZone: "Asia/Shanghai",
     // [Optional] grace period in minutes before sending a notification
