@@ -53,7 +53,7 @@ const workerConfig = {
       // `method` should be a valid HTTP Method
       method: 'GET',
       // `target` is a valid URL
-      target: 'https://www.ankitdalal.com/',
+      target: 'https://test0500.ankit-1cc.workers.dev/',
       // [OPTIONAL] `tooltip` is ONLY used at status page to show a tooltip
       tooltip: 'This is Pocketful Website Home Page',
       // [OPTIONAL] `statusPageLink` is ONLY used for clickable link at status page
@@ -82,7 +82,7 @@ const workerConfig = {
     appriseApiServer: "https://vercel-apprise01.vercel.app/notify",
     // [Optional] recipient URL for apprise, refer to https://github.com/caronc/apprise
     // if not specified, no notification will be sent
-    recipientUrl: "discord://1261357672062652528/c28tv84_aSO3mK6q0KoGmWyXiF6O5vjewwDoTaLfOgCPOANg5-QCIChXIYlFx_dvszsu/?username=SEO Team Bot&avatar_url=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS60dqTjnTgfJok-_HkKzDgH52YkRyF61yr1g&s",
+    recipientUrl: "discord://SeoBot@1261357672062652528/c28tv84_aSO3mK6q0KoGmWyXiF6O5vjewwDoTaLfOgCPOANg5-QCIChXIYlFx_dvszsu/?username=SEO&avatar_url=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS60dqTjnTgfJok-_HkKzDgH52YkRyF61yr1g&s",
     // [Optional] timezone used in notification messages, default to "Etc/GMT"
     timeZone: "Asia/Shanghai",
     // [Optional] grace period in minutes before sending a notification
