@@ -73,17 +73,17 @@ export default function Home({
         <Text size="xs" mt="xs" mb="xs" style={{
           textAlign: 'center'
         }}>
-          Open-source monitoring and status page powered by{' '}
-          <a href="https://github.com/lyc8503/UptimeFlare" target="_blank">
-            Uptimeflare
+          Monitoring and status page powered by{' '}
+          <a href="https://ai.ankitdalal.com/" target="_blank">
+            Dalal AI
           </a>{' '}
           and{' '}
-          <a href="https://www.cloudflare.com/" target="_blank">
-            Cloudflare
+          <a href="https://playground.ai.ankitdalal.com/" target="_blank">
+            Playground Ai
           </a>
           , made with ❤ by{' '}
-          <a href="https://github.com/lyc8503" target="_blank">
-            lyc8503
+          <a href="https://www.ankitdalal.com/contact-us" target="_blank">
+            Ankit Dalal
           </a>
           .
         </Text>
