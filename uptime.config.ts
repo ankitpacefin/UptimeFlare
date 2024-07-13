@@ -384,11 +384,11 @@ const workerConfig = {
     // if not specified, no notification will be sent
     recipientUrl: "discord://SeoBot@1261357672062652528/c28tv84_aSO3mK6q0KoGmWyXiF6O5vjewwDoTaLfOgCPOANg5-QCIChXIYlFx_dvszsu/?username=SEO&avatar_url=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS60dqTjnTgfJok-_HkKzDgH52YkRyF61yr1g&s",
     // [Optional] timezone used in notification messages, default to "Etc/GMT"
-    timeZone: "Asia/Shanghai",
+    timeZone: "Asia/Kolkata",
     // [Optional] grace period in minutes before sending a notification
     // notification will be sent only if the monitor is down for N continuous checks after the initial failure
     // if not specified, notification will be sent immediately
-    gracePeriod: 1,
+   // gracePeriod: 1,
   },
   callbacks: {
     onStatusChange: async (
