@@ -31,7 +31,7 @@ const workerConfig = {
       // [OPTIONAL] `expectedCodes` is an array of acceptable HTTP response codes, if not specified, default to 2xx
       expectedCodes: [200],
       // [OPTIONAL] `timeout` in millisecond, if not specified, default to 10000
-      timeout: 10000,
+      timeout: 100000,
       // [OPTIONAL] headers to be sent
       headers: {
         'User-Agent': 'DalalUptime',
@@ -61,7 +61,7 @@ const workerConfig = {
       // [OPTIONAL] `expectedCodes` is an array of acceptable HTTP response codes, if not specified, default to 2xx
       expectedCodes: [200],
       // [OPTIONAL] `timeout` in millisecond, if not specified, default to 10000
-      timeout: 10000,
+      timeout: 100000,
       // [OPTIONAL] headers to be sent
       headers: {
         'User-Agent': 'DalalUptime',
@@ -91,7 +91,7 @@ const workerConfig = {
       // [OPTIONAL] `expectedCodes` is an array of acceptable HTTP response codes, if not specified, default to 2xx
       expectedCodes: [200],
       // [OPTIONAL] `timeout` in millisecond, if not specified, default to 10000
-      timeout: 10000,
+      timeout: 100000,
       // [OPTIONAL] headers to be sent
       headers: {
         'User-Agent': 'DalalUptime',
@@ -121,7 +121,7 @@ const workerConfig = {
       // [OPTIONAL] `expectedCodes` is an array of acceptable HTTP response codes, if not specified, default to 2xx
       expectedCodes: [200],
       // [OPTIONAL] `timeout` in millisecond, if not specified, default to 10000
-      timeout: 10000,
+      timeout: 100000,
       // [OPTIONAL] headers to be sent
       headers: {
         'User-Agent': 'DalalUptime',
@@ -151,7 +151,7 @@ const workerConfig = {
       // [OPTIONAL] `expectedCodes` is an array of acceptable HTTP response codes, if not specified, default to 2xx
       expectedCodes: [200],
       // [OPTIONAL] `timeout` in millisecond, if not specified, default to 10000
-      timeout: 10000,
+      timeout: 100000,
       // [OPTIONAL] headers to be sent
       headers: {
         'User-Agent': 'DalalUptime',
@@ -181,7 +181,7 @@ const workerConfig = {
       // [OPTIONAL] `expectedCodes` is an array of acceptable HTTP response codes, if not specified, default to 2xx
       expectedCodes: [200],
       // [OPTIONAL] `timeout` in millisecond, if not specified, default to 10000
-      timeout: 10000,
+      timeout: 100000,
       // [OPTIONAL] headers to be sent
       headers: {
         'User-Agent': 'DalalUptime',
@@ -211,7 +211,7 @@ const workerConfig = {
       // [OPTIONAL] `expectedCodes` is an array of acceptable HTTP response codes, if not specified, default to 2xx
       expectedCodes: [200],
       // [OPTIONAL] `timeout` in millisecond, if not specified, default to 10000
-      timeout: 10000,
+      timeout: 100000,
       // [OPTIONAL] headers to be sent
       headers: {
         'User-Agent': 'DalalUptime',
@@ -241,7 +241,7 @@ const workerConfig = {
       // [OPTIONAL] `expectedCodes` is an array of acceptable HTTP response codes, if not specified, default to 2xx
       expectedCodes: [200],
       // [OPTIONAL] `timeout` in millisecond, if not specified, default to 10000
-      timeout: 10000,
+      timeout: 100000,
       // [OPTIONAL] headers to be sent
       headers: {
         'User-Agent': 'DalalUptime',
@@ -271,7 +271,7 @@ const workerConfig = {
       // [OPTIONAL] `expectedCodes` is an array of acceptable HTTP response codes, if not specified, default to 2xx
       expectedCodes: [200],
       // [OPTIONAL] `timeout` in millisecond, if not specified, default to 10000
-      timeout: 10000,
+      timeout: 100000,
       // [OPTIONAL] headers to be sent
       headers: {
         'User-Agent': 'DalalUptime',
@@ -301,7 +301,7 @@ const workerConfig = {
       // [OPTIONAL] `expectedCodes` is an array of acceptable HTTP response codes, if not specified, default to 2xx
       expectedCodes: [200],
       // [OPTIONAL] `timeout` in millisecond, if not specified, default to 10000
-      timeout: 10000,
+      timeout: 100000,
       // [OPTIONAL] headers to be sent
       headers: {
         'User-Agent': 'DalalUptime',
@@ -331,7 +331,7 @@ const workerConfig = {
       // [OPTIONAL] `expectedCodes` is an array of acceptable HTTP response codes, if not specified, default to 2xx
       expectedCodes: [200],
       // [OPTIONAL] `timeout` in millisecond, if not specified, default to 10000
-      timeout: 10000,
+      timeout: 100000,
       // [OPTIONAL] headers to be sent
       headers: {
         'User-Agent': 'DalalUptime',
@@ -361,7 +361,7 @@ const workerConfig = {
       // [OPTIONAL] `expectedCodes` is an array of acceptable HTTP response codes, if not specified, default to 2xx
       expectedCodes: [200],
       // [OPTIONAL] `timeout` in millisecond, if not specified, default to 10000
-      timeout: 10000,
+      timeout: 100000,
       // [OPTIONAL] headers to be sent
       headers: {
         'User-Agent': 'DalalUptime',
